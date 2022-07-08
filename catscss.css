@@ -1,0 +1,62 @@
+
+body {
+  background-color: #b4d6c0;
+  margin: 5% 15% 5% 10%;
+
+}
+
+h1 {
+  font-family: Montserrat;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 2.5em;
+  background-image: url(leaf.jpg);
+  background-align: center;
+}
+
+ul {
+  font-family: Nunito;
+  margin-left: 10%;
+  padding: 15px;
+  font-size: 1.4em;
+  color: #043818;
+}
+
+h2 {
+  font-family: Inter;
+  font-size: 2.2em;
+  font-weight: bolder;
+  color: #5fa178;
+  padding: 40px;
+  text-align: center;
+
+}
+
+h3 {
+  font-family: Montserrat;
+  color: #3c634a;
+  padding: 15px;
+  font-size: 1.7em;
+}
+
+div {
+  padding: 15px;
+  margin-left: 10%;
+}
+
+p {
+  font-family: Roboto;
+  font-weight: bolder;
+  padding: 20px;
+  font-size: 1.2em;
+  color: #0d5428;
+}
+
+footer {
+  font-family: Nunito;
+  font-weight: bold;
+  background-image: url(leaves.jpg);
+  color: white;
+  margin-left: 10%;
+}
